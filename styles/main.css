@@ -5,8 +5,8 @@ body {
 .text {
   display: block;
   text-align: justify;
-  padding: 10px;
-  width: calc(100vw - 20px);
+  padding: 1.5vw;
+  width: calc(100vw - 3vw);
   height: 100vh;
 
   position: absolute;
